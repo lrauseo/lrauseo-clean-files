@@ -1,3 +1,4 @@
 application:
     base_path: 'c:\temp\'
-    expiration_days: '4'
+    expiration_days: '20'
+    date_format: "yyyy-MM-dd"
